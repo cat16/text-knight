@@ -1,0 +1,25 @@
+Test
+0
+1
+20
+1
+1
+2
+0
+1
+Bryan
+Raw Meat Cube
+Cooked Meat Cube
+Cooked Meat Cube
+Fur
+Cloths
+Hand
+Body
+stop
+Gray Rat
+Gray Rat
+Gray Rat
+stop
+1
+1
+6
